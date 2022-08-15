@@ -9,7 +9,7 @@ const About = ()=>{
       <div id = 'abouttext'>
         <h1>About</h1>
         <p>I'm a Full Stack engineer that recently made a career change and graduated from Full Stack Academy. I love solving problems and learning new technologies. </p>
-        <ul>
+        <ul className = 'myLists'>
           <li >
             <a href='https://github.com/jay658'>Github <BsGithub/></a>
           </li>
@@ -21,7 +21,7 @@ const About = ()=>{
           </li>
         </ul>
 
-        <ul>
+        <ul className = 'myLists'>
           <p>Technologies I've used:</p>
           <br/>
           <li>NodeJs <FaNodeJs/></li>
