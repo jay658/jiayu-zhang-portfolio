@@ -26,7 +26,7 @@ const Navbar = ()=>{
             <a href='https://www.linkedin.com/in/jiayu-zhang658'><BsLinkedin/></a>
           </li>
           <li className='nav-item navLinks'>
-            <a href='https://drive.google.com/file/d/1AgQmaK-2F2e_TsaRgXfV6cBY-9UCNLIk/view'>CV</a>
+            <a href='https://drive.google.com/file/d/1Kgqab80EdiQWy3HbBbiwROgguFj18qlG/view'>CV</a>
           </li>
         </ul>
       </nav>
