@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/resume/static/css/main.f2eb3989.css",
-    "main.js": "/resume/static/js/main.95fdd65b.js",
-    "static/js/787.1ed0c42c.chunk.js": "/resume/static/js/787.1ed0c42c.chunk.js",
-    "static/media/computer background.jpg": "/resume/static/media/computer background.b6c3931702238e97de51.jpg",
-    "static/media/syntactically sugar.png": "/resume/static/media/syntactically sugar.f30d4143ada6ba6724e5.png",
-    "static/media/daja view.png": "/resume/static/media/daja view.1ba0389154fa7eb9d320.png",
-    "static/media/laptop-home-office.webp": "/resume/static/media/laptop-home-office.120067b4672b2520a069.webp",
-    "static/media/pokemon game.png": "/resume/static/media/pokemon game.d92bb5555a82c7c2580e.png",
-    "index.html": "/resume/index.html",
-    "main.f2eb3989.css.map": "/resume/static/css/main.f2eb3989.css.map",
-    "main.95fdd65b.js.map": "/resume/static/js/main.95fdd65b.js.map",
-    "787.1ed0c42c.chunk.js.map": "/resume/static/js/787.1ed0c42c.chunk.js.map"
+    "main.css": "/jiayu-zhang-portfolio/static/css/main.80bff96f.css",
+    "main.js": "/jiayu-zhang-portfolio/static/js/main.b1a53dca.js",
+    "static/js/787.1ed0c42c.chunk.js": "/jiayu-zhang-portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/computer background.jpg": "/jiayu-zhang-portfolio/static/media/computer background.b6c3931702238e97de51.jpg",
+    "static/media/syntactically sugar.png": "/jiayu-zhang-portfolio/static/media/syntactically sugar.f30d4143ada6ba6724e5.png",
+    "static/media/daja view.png": "/jiayu-zhang-portfolio/static/media/daja view.1ba0389154fa7eb9d320.png",
+    "static/media/laptop-home-office.webp": "/jiayu-zhang-portfolio/static/media/laptop-home-office.120067b4672b2520a069.webp",
+    "static/media/pokemon game.png": "/jiayu-zhang-portfolio/static/media/pokemon game.d92bb5555a82c7c2580e.png",
+    "index.html": "/jiayu-zhang-portfolio/index.html",
+    "main.80bff96f.css.map": "/jiayu-zhang-portfolio/static/css/main.80bff96f.css.map",
+    "main.b1a53dca.js.map": "/jiayu-zhang-portfolio/static/js/main.b1a53dca.js.map",
+    "787.1ed0c42c.chunk.js.map": "/jiayu-zhang-portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f2eb3989.css",
-    "static/js/main.95fdd65b.js"
+    "static/css/main.80bff96f.css",
+    "static/js/main.b1a53dca.js"
   ]
 }
