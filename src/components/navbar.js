@@ -7,7 +7,7 @@ const Navbar = ()=>{
         <ul className='nav-list'>
           <li className='nav-item'>
             <a href='#intro'>
-              <img src='../images/logo.png' alt='logo' id='logo'/>
+              <img src={process.env.PUBLIC_URL + '/images/logo.png'} alt='logo' id='logo'/>
             </a>
           </li>
           <li className='nav-item navLinks'>
