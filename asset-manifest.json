@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/jiayu-zhang-portfolio/static/css/main.80bff96f.css",
-    "main.js": "/jiayu-zhang-portfolio/static/js/main.b1a53dca.js",
+    "main.js": "/jiayu-zhang-portfolio/static/js/main.56f94e2b.js",
     "static/js/787.1ed0c42c.chunk.js": "/jiayu-zhang-portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/computer background.jpg": "/jiayu-zhang-portfolio/static/media/computer background.b6c3931702238e97de51.jpg",
     "static/media/syntactically sugar.png": "/jiayu-zhang-portfolio/static/media/syntactically sugar.f30d4143ada6ba6724e5.png",
@@ -10,11 +10,11 @@
     "static/media/pokemon game.png": "/jiayu-zhang-portfolio/static/media/pokemon game.d92bb5555a82c7c2580e.png",
     "index.html": "/jiayu-zhang-portfolio/index.html",
     "main.80bff96f.css.map": "/jiayu-zhang-portfolio/static/css/main.80bff96f.css.map",
-    "main.b1a53dca.js.map": "/jiayu-zhang-portfolio/static/js/main.b1a53dca.js.map",
+    "main.56f94e2b.js.map": "/jiayu-zhang-portfolio/static/js/main.56f94e2b.js.map",
     "787.1ed0c42c.chunk.js.map": "/jiayu-zhang-portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.80bff96f.css",
-    "static/js/main.b1a53dca.js"
+    "static/js/main.56f94e2b.js"
   ]
 }
