@@ -22,14 +22,14 @@ const Fullpage = () => (
             <About/>
           </div>
           <div className="section" id='slideContainer'>
-            <div className="slide"> 
-              <PokemonGame/>
-            </div>
             <div className="slide">
               <DajaView/>
             </div>
             <div className="slide">
               <SyntacticallySugar/>
+            </div>
+            <div className="slide"> 
+              <PokemonGame/>
             </div>
           </div>
           <div className="section" id='contactSection'>

@@ -7,6 +7,8 @@ export const PokemonGame = ()=>{
     <div id='pokemonContainer'>
       <h1>Pokemon Game</h1>
       <p>Pokemon demo game. Explore the map and battle wild Pokemon.</p>
+      <h3>How to play:</h3>
+      <p>WASD to move and click boxes to go through chats/battles</p>
       <ul>
         <h2>Technologies used:</h2>
         <li>JavaScript <SiJavascript/></li> 
@@ -17,7 +19,7 @@ export const PokemonGame = ()=>{
       </ul>
       <div className='links'>
         <a href='https://github.com/jay658/Pokemon-game'>Github <AiFillGithub/></a>
-        <a href='https://jiayu-pokemon-app.herokuapp.com/'>Demo</a>
+        <a href='https://jay658.github.io/Pokemon/'>Demo</a>
       </div>
     </div>
   )
@@ -43,7 +45,7 @@ export const DajaView = () =>{
       </ul>
       <div className='links'>
         <a href='https://github.com/jay658/DAJA-VIEW'>Github <AiFillGithub/></a>
-        <a href='https://capstone-movie-social-app.herokuapp.com/'>Demo</a>
+        <a href='https://daja-view1.herokuapp.com/'>Demo</a>
       </div>
     </div>
   )
@@ -68,7 +70,7 @@ export const SyntacticallySugar = ()=>{
       </ul>
       <div className='links'>
         <a href='https://github.com/jay658/Syntactically-Sugar'>Github <AiFillGithub/></a>
-        <a href='https://syntactically-sugar-app.herokuapp.com/'>Demo</a>
+        <a href='https://syntactically-sugar1.herokuapp.com/'>Demo</a>
       </div>
     </div>
   )
