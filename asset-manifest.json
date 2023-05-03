@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.246ea010.css",
-    "main.js": "/static/js/main.5468219a.js",
+    "main.css": "/static/css/main.3e8c5518.css",
+    "main.js": "/static/js/main.9badda42.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
     "static/media/computer background.jpg": "/static/media/computer background.b6c3931702238e97de51.jpg",
     "static/media/syntactically sugar.png": "/static/media/syntactically sugar.f30d4143ada6ba6724e5.png",
@@ -9,12 +9,12 @@
     "static/media/laptop-home-office.webp": "/static/media/laptop-home-office.120067b4672b2520a069.webp",
     "static/media/pokemon game.png": "/static/media/pokemon game.d92bb5555a82c7c2580e.png",
     "index.html": "/index.html",
-    "main.246ea010.css.map": "/static/css/main.246ea010.css.map",
-    "main.5468219a.js.map": "/static/js/main.5468219a.js.map",
+    "main.3e8c5518.css.map": "/static/css/main.3e8c5518.css.map",
+    "main.9badda42.js.map": "/static/js/main.9badda42.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.246ea010.css",
-    "static/js/main.5468219a.js"
+    "static/css/main.3e8c5518.css",
+    "static/js/main.9badda42.js"
   ]
 }
