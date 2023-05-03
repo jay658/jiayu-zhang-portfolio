@@ -46,7 +46,7 @@ export const DajaView = () =>{
         <a href='https://github.com/jay658/DAJA-VIEW'>Github <AiFillGithub/></a>
         <a href='https://daja-view1.herokuapp.com/'>Demo</a>
       </div>
-      <p>Username: jiayu | Password: 123</p>
+      <p>Username: test | Password: 123</p>
     </div>
   )
 }
@@ -72,7 +72,7 @@ export const SyntacticallySugar = ()=>{
         <a href='https://github.com/jay658/Syntactically-Sugar'>Github <AiFillGithub/></a>
         <a href='https://syntactically-sugar1.herokuapp.com/'>Demo</a>
       </div>
-      <p>Username: jiayu | Password: 123</p>
+      <p>Username: test | Password: 123</p>
     </div>
   )
 }
